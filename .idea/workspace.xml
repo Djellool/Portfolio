@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd0302ec-9fae-4493-bbe3-56d903388c9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/js/custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,7 +169,7 @@
       <workItem from="1605116236407" duration="17045000" />
       <workItem from="1605280232384" duration="6366000" />
       <workItem from="1605296765976" duration="968000" />
-      <workItem from="1605304525722" duration="4060000" />
+      <workItem from="1605304525722" duration="4433000" />
     </task>
     <servers />
   </component>
