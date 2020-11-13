@@ -603,8 +603,6 @@
 
 <!-- Template Main Javascript File -->
 <script src="{{asset('js/main.js')}}"></script>
-<!--  main script  -->
-<script src="{{asset('js/custom.js')}}"></script>
 
 </body>
 </html>
