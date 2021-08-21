@@ -8,16 +8,16 @@
     <meta content="" name="description">
 
     <!-- Favicons -->
-    <link href="{{asset('img/favicon.png')}}" rel="icon">
+    <link href="{{asset('img/b_letter.png')}}" rel="icon">
     <link href="{{asset('img/apple-touch-icon.png')}}" rel="apple-touch-icon">
 
     <!-- Bootstrap CSS File -->
     <link href="{{asset('lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
     <!-- Libraries CSS Files -->
-    <link href="{{asset('font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+    <link href="{{asset('lib/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
     <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
-    <link href="{{asset('ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+    <link href="{{asset('lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
     <link href="{{asset('lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
     <link href="{{asset('lib/lightbox/css/lightbox.min.css')}}" rel="stylesheet">
 
@@ -73,7 +73,7 @@
             <div class="container">
                 <!--<p class="display-6 color-d">Hello, world!</p>-->
                 <h1 class="intro-title mb-4">HI , I am Boutouili Djillali</h1>
-                <p class="intro-subtitle"><span class="text-slider-items">Web Developer,Web Designer,Mobile Developer</span><strong class="text-slider"></strong></p>
+                <p class="intro-subtitle"><span class="text-slider-items">Mobile App Developer,Mobile App Designer</span><strong class="text-slider"></strong></p>
                 <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
             </div>
         </div>
@@ -97,7 +97,7 @@
                                 <div class="col-sm-6 col-md-7">
                                     <div class="about-info">
                                         <p><span class="title-s">Name: </span> <span>Boutouili Djillali</span></p>
-                                        <p><span class="title-s">Profile: </span> <span>Mobile & Web Developer</span></p>
+                                        <p><span class="title-s">Profile: </span> <span>Mobile App Developer</span></p>
                                         <p><span class="title-s">Email: </span> <span>gd_boutouili@esi.dz</span></p>
                                         <p><span class="title-s">Phone: </span> <span>(+213) 781846277</span></p>
                                     </div>
@@ -105,29 +105,29 @@
                             </div>
                             <div class="skill-mf">
                                 <p class="title-s">Skills</p>
-                                <span>Laravel</span> <span class="pull-right">85%</span>
+                                <span>Flutter</span> <span class="pull-right">90%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="85" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Bootstrap</span> <span class="pull-right">90%</span>
+                                <span>Dart</span> <span class="pull-right">90%</span>
                                 <div class="progress">
                                     <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Javascript</span> <span class="pull-right">65%</span>
+                                <span>User Interface & Experience</span> <span class="pull-right">75%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="65" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>Flutter</span> <span class="pull-right">80%</span>
+                                <span>Firebase</span> <span class="pull-right">85%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="80" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
-                                <span>UI & UX</span> <span class="pull-right">70%</span>
+                                <span>Google Api's</span> <span class="pull-right">80%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="70" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                             </div>
@@ -139,16 +139,16 @@
                                         About me
                                     </h5>
                                 </div>
-                                <p class="lead">
-                                    Hi , This is Boutouili Djillali , A 21 years old talented and motivated individual from Algeria
-                                    who can create for your business the best looking , most performing and most secure Web or Mobile apps that adapt the best to your needs.
+                                <p class="lead" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+                                    Hi , This is Boutouili Djillali , A 22 years old talented and motivated algerian individual ,<span style="font-weight: 700;">with three years of experience in the software industry </span>, 
+                                    I will create for your business the best looking , most performing and most secure Mobile apps that adapt the best to your needs.
                                 </p>
-                                <p class="lead">
+                                <p class="lead" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
                                     I’m someone who pursues everything with a determination that sets me apart from others .
                                     As a true professional , I will always complete tasks on time by going out of my way to meet any schedules , legal requirements and negotiated deadlines.
                                 </p>
-                                <p class="lead">
-                                    On a personal level , I’m a last year computer science student in the software industry.
+                                <p class="lead" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+                                    On a personal level , I’m a freshed graduate computer science engineer in the software industry.
                                 </p>
                             </div>
                         </div>
@@ -173,33 +173,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4">
-                <div class="service-box">
-                    <div class="service-ico">
-                        <span class="ico-circle"><i class="ion-monitor"></i></span>
-                    </div>
-                    <div class="service-content">
-                        <h2 class="s-title">Web Design</h2>
-                        <p class="s-description text-center">
-                            The creation and conception of a website design  by designing all of its web interfaces: the interactional architecture, the organization of pages, the tree structure and navigation in a website.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service-box">
-                    <div class="service-ico">
-                        <span class="ico-circle"><i class="ion-code-working"></i></span>
-                    </div>
-                    <div class="service-content">
-                        <h2 class="s-title">Web Development</h2>
-                        <p class="s-description text-center">
-                            I Can create for your business the best looking , most performing and most secure Web apps that adapts and responds to your needs.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
+        <div class="col-md-6">
                 <div class="service-box">
                     <div class="service-ico">
                         <span class="ico-circle"><i class="ion-android-phone-portrait"></i></span>
@@ -207,12 +181,26 @@
                     <div class="service-content">
                         <h2 class="s-title">Mobile Development</h2>
                         <p class="s-description text-center">
-                            I can create for your business the most secure and well looking cross plateform Mobile app , Working both on IOS and Android ,
-                            using Google's Flutter and Firebase storage system.
+                            I can create for your business the most secure and well looking cross plateform Mobile app , Working both on IOS and Android , Phones and tablets , 
+                            using Google's Flutter Framework.
                         </p>
                     </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <div class="service-box">
+                    <div class="service-ico">
+                        <span class="ico-circle"><i class="ion-monitor"></i></span>
+                    </div>
+                    <div class="service-content">
+                        <h2 class="s-title">Mobile Design</h2>
+                        <p class="s-description text-center">
+                            The creation and conception of a Mobile application design (on Phone or Tablet) by designing all of its screens: the interactional architecture, the organization of pages, the tree structure and navigation in the app.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
         </div>
     </div>
 </section>
@@ -241,8 +229,8 @@
                         <nav class="categories">
                             <ul class="portfolio_filter">
                                 <li><a href="" class="active" data-filter="*">All</a></li>
-                                <li><a href="" data-filter=".photography">Web Developement</a></li>
-                                <li><a href="" data-filter=".logo">Mobile Developement</a></li>
+                                <li><a href="" data-filter=".mobile">Mobile App</a></li>
+                                <li><a href="" data-filter=".tablet">Tablet App</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -251,52 +239,61 @@
                     <!-- portfolio_container -->
                     <div class="no-padding portfolio_container clearfix" data-aos="fade-up">
                         <!-- single work -->
-                        <div class="col-md-6 col-sm-6  photography">
-                            <a id="demo01" href="#animatedModal" class="portfolio_item"> <img src="{{asset('img/Casaclot-Homepage.PNG')}}" alt="image" class="img-responsive" />
+                    
+                        <div class="col-md-4 col-sm-4  mobile">
+                            <a id="demo01" href="#animatedModal" class="portfolio_item"> <img style="max-width: 70%;
+    max-height: 70%;" src="{{asset('img/homepageclient.jpg')}}" alt="image" class="img-responsive" />
                                 <div class="portfolio_item_hover">
                                     <div class="portfolio-border clearfix">
-                                        <div class="item_info"> <span>CasaClot</span> <em>Web App</em> </div>
+                                        <div class="item_info"> <span>Ziouane Express</span> <em>Mobile Application</em> </div>
                                     </div>
                                 </div>
                             </a>
                         </div>
+                       
                         <!-- end single work -->
 
                         <!-- single work -->
-                        <div class="col-md-6 col-sm-6 ads photography">
-                            <a id="demo02" href="#animatedModal2" class="portfolio_item"> <img src="{{asset('img/Baraka1.PNG')}}" alt="image" class="img-responsive" />
+                    
+                        <div class="col-md-4 col-sm-4 ads mobile">
+                            <a id="demo02" href="#animatedModal2" class="portfolio_item"> <img style="max-width: 70%;
+    max-height: 70%;" src="{{asset('img/loginlivreur.jpg')}}" alt="image" class="img-responsive" />
                                 <div class="portfolio_item_hover">
                                     <div class="portfolio-border clearfix">
-                                        <div class="item_info"> <span>Software Inventory</span> <em>Web App</em> </div>
+                                        <div class="item_info"> <span>Ziouane Delivery</span> <em>Mobile Application</em> </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    
+                        <!-- end single work -->
+                        <div class="col-md-4 col-sm-4 mobile">
+                            <a id="demo04" href="#animatedModal4" class="portfolio_item"> <img style="max-width: 70%;
+    max-height: 70%;" src="{{asset('img/SS1.PNG')}}" alt="image" class="img-responsive"/>
+                                <div class="portfolio_item_hover">
+                                    <div class="portfolio-border clearfix">
+                                        <div class="item_info"> <span>Stock & Sales</span> <em>Mobile Application</em> </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                        </div>
+                        <!-- single work -->
+                        <div class="col-md-6 col-sm-6 tablet">
+                            <a id="demo03" href="#animatedModal3" class="portfolio_item"> <img src="{{asset('img/homepageoptique.jpg')}}" alt="image" class="img-responsive" />
+                                <div class="portfolio_item_hover">
+                                    <div class="portfolio-border clearfix">
+                                        <div class="item_info"> <span>Dz Optical</span> <em>Tablet Application</em> </div>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <!-- end single work -->
-
                         <!-- single work -->
-                        <div class="col-md-6 col-sm-6 photography">
-                            <a id="demo03" href="#animatedModal3" class="portfolio_item"> <img src="{{asset('img/Cha3lal1.png')}}" alt="image" class="img-responsive" />
-                                <div class="portfolio_item_hover">
-                                    <div class="portfolio-border clearfix">
-                                        <div class="item_info"> <span>Car Management</span> <em>Web App</em> </div>
-                                    </div>
-                                </div>
-                            </a>
+                        <div class="col-md-3 col-sm-3">
                         </div>
-                        <!-- end single work -->
-                        <!-- single work -->
-                        <div class="col-md-3 col-sm-6 logo">
-                            <a id="demo04" href="#animatedModal4" class="portfolio_item"> <img src="{{asset('img/SS1.PNG')}}" alt="image" class="img-responsive"/>
-                                <div class="portfolio_item_hover">
-                                    <div class="portfolio-border clearfix">
-                                        <div class="item_info"> <span>Stock & Sales</span> <em>Mobile App</em> </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-md-3">
-                        </div>
+                    
                         <!-- end single work -->
                     </div>
                     <!-- end portfolio_container -->
@@ -320,36 +317,65 @@
         <div class="container">
             <div class="portfolio-padding">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2>CasaClot<br /> Web Application</h2>
+                    <h2>Ziouane Express<br /> Mobile Application</h2>
                     <div class="h-50"></div>
-                    <p>CasaClot is an E-commerce Website , I created for the profit of a business clothing Store , giving the store a big push to the Store , making it's products more visible to the market .</p>
-                    <p> Casaclot is a very well designed website that Contains many functionalities an online store needs as Articles management , Clients management , Discount management and of course sales management</p>
+                    <p>ZiouaneExpress is a delivery mobile application client oriented , I participated in its creation for the profit of a delivery company , giving the company a big push in the market , making the services given more accessible, easier to use and better looking through the app.</p>
+                    <p> ZiouaneExpress is a very well designed mobile application that Contains many functionalities a delivery app needs as Profile management , management , Discounts management and of course Orders management</p>
+                    <p>You can find underneath some of the app's screens </p>
                     <br/>
                     <div class="row">
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Casaclot-Homepage.PNG')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3  ">
+                            <a class="yes"> <img src="{{asset('img/loginclient.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Casaclot 2.PNG')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/homepageclient.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/drawerclient.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
                     </div>
                     <br/>
                     <div class="row">
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Casaclot3.PNG')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3  ">
+                            <a class="yes"> <img src="{{asset('img/rechercheclient.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Casaclor4.PNG')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/commandeclient.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/profilteclient.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
                     </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/parrainageclient.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/snackbarclient.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/historiqueclient.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                    </div>
+                    <br/>
                     <br/>
                     <br>
-                    <p>Built using Laravel 5 framework with PHP ,which makes the website secure from all possible security threat and very robust, And using Bootstrap library and Jquery for the UI</p>
-                    <br /> </div>
+                    <p>Built using <span style="font-weight: bold;">Flutter framework with DART</span>  making the app cross plateform ( Working on <span style="font-weight: bold;">Android & IOS</span>) ,with a responsive design being appealing both on phones and tablets.
+                <br>The backend is built using <span style="font-weight: bold;"> PHP's framework Laravel</span> which makes the Application secure from all possible security threat and very robust.</p>
+                <p>The application uses <span style="font-weight: bold;">Google's firebase</span> for authentification and the <span style="font-weight: bold;">push notification </span> technology for launching delivery notifications, and uses <span style="font-weight: bold;">Google Maps Api</span> for the delivery purpose.</p>
+                    <br />
+                    <p>The application also uses <span style="font-weight: bold;">Provider</span> for state management.
+                 </div>
             </div>
         </div>
     </div>
@@ -362,39 +388,64 @@
     cursor: pointer;"> <i class="ion-close-round"></i> </div>
     <div class="clearfix"></div>
     <div class="modal-content">
-        <div class="container">
+    <div class="container">
             <div class="portfolio-padding">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2>Software Inventory<br /> Web Application</h2>
+                    <h2>Ziouane Delivery<br /> Mobile Application</h2>
                     <div class="h-50"></div>
-                    <p>SoftwareInventory is an management Website , I created for the profit of a ElBaraka Bank - Algeria, Giving the bank a fluid and fast way to manage all its software and applications.</p>
-                    <p> Software Inventory is a very well designed website that Contains many functionalities that lets the organization manage its internal applications such as User management , Departement management and of course Application management</p>
+                    <p>Ziouane Delivery is the delivery mobile application used by the delivery men enrolled in the company, I participated in its creation for the profit of a delivery company , giving the company a big push in the market , making the services given more accessible, easier to use and better looking through the app.</p>
+                    <p> Ziouane Delivery is a very well designed mobile application that Contains many functionalities a delivery app needs as Profile management , Finances management , Discounts management and of course Orders management</p>
+                    <p>You can find underneath some of the app's screens </p>
                     <br/>
                     <div class="row">
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Baraka1.PNG')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3  ">
+                            <a class="yes"> <img src="{{asset('img/loginlivreur.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Baraka2.jpg')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/registerlivreur.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/homepagelivreur.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
                     </div>
                     <br/>
                     <div class="row">
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Baraka3.jpg')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3  ">
+                            <a class="yes"> <img src="{{asset('img/metriclivreur.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Baraka4.jpg')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/parrainagelivreur.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/historiquelivreur.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
                     </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3 ">
+                            <a class="yes"> <img src="{{asset('img/histolivreur.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                        </div>
+                        <div class="col-md-3 col-sm-3 ">
+                        </div>
+                    </div>
+                    <br/>
                     <br/>
                     <br>
-                    <p>Built using Laravel 6 framework of PHP ,which makes the website secure from all possible security threats and very robust, And using Bootstrap library and Jquery for the UI</p>
-                    <br/> </div>
+                    <p>Built using <span style="font-weight: bold;">Flutter framework with DART</span>  making the app cross plateform ( Working both on <span style="font-weight: bold;">Android & IOS</span>) ,with a responsive design being appealing both on phones and tablets.
+                <br>The backend is built using <span style="font-weight: bold;"> PHP's framework Laravel</span> which makes the Application secure from all possible security threat and very robust.</p>
+                <p>The application uses <span style="font-weight: bold;">Google's firebase</span> for authentification and the <span style="font-weight: bold;">push notification </span> technology for launching delivery notifications, and uses <span style="font-weight: bold;">Google Maps Api services</span> for the delivery purpose.</p>
+                    <br /> 
+                    <p>The application also uses <span style="font-weight: bold;">Provider</span> for state management.
+                    <br /> </div>
             </div>
         </div>
     </div>
@@ -406,40 +457,65 @@
     font-size: 22px;
     cursor: pointer;"> <i class="ion-close-round"></i> </div>
     <div class="clearfix"></div>
-    <div class="modal-content">
-        <div class="container">
+    <div class="container">
             <div class="portfolio-padding">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2>Car Management<br /> Web Application</h2>
+                    <h2>Dz Optical<br /> Tablet Application</h2>
                     <div class="h-50"></div>
-                    <p>Car Management is a management Website , I created in a multidisciplinary project in university, Giving the user a fluid and fast way to manage Car maintenance.</p>
-                    <p> Car Management is a very well designed website that Contains many functionalities that lets any orgnization using lot of functionality cars manage its car maintenance</p>
+                    <p>Dz Optical is a mobile application designed for tablets used by commercials enrolled in the company, I participated in its creation for the profit of an optical store company "Dz Optical" , giving the company a big push in the market , making the services given more accessible, more visible and better looking through the app.</p>
+                    <p>Dz Optical is a very well designed mobile application designed especially for tablets following a Futuristic design made for the Optical theme ,  that Contains many functionalities such as Clients management , Synchronization management and of course products management</p>
+                    <p>You can find underneath some of the app's screens </p>
                     <br/>
                     <div class="row">
                         <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Cha3lal1.png')}}" alt="image" class="img-responsive" />
+                            <a class="yes"> <img src="{{asset('img/homepageoptique.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/cha3lal2.png')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-6 col-sm-6 ">
+                            <a class="yes"> <img src="{{asset('img/synchrooptique.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
                     </div>
                     <br/>
                     <div class="row">
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/cha3lal3.png')}}" alt="image" class="img-responsive" />
+                    <div class="col-md-6 col-sm-6  ">
+                            <a class="yes"> <img src="{{asset('img/verresoptique.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
-                        <div class="col-md-6 col-sm-6  ">
-                            <a class="yes"> <img src="{{asset('img/Cha3lal4.png')}}" alt="image" class="img-responsive" />
+                        <div class="col-md-6 col-sm-6 ">
+                            <a class="yes"> <img src="{{asset('img/rechercheoptique.jpg')}}" alt="image" class="img-responsive" />
                             </a>
                         </div>
                     </div>
+                    <br>
+                    <div class="row">
+                    <div class="col-md-6 col-sm-6  ">
+                            <a class="yes"> <img src="{{asset('img/verredetailsoptique.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-6 col-sm-6 ">
+                            <a class="yes"> <img src="{{asset('img/gifoptique.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                    </div>
+                    <br/>
+                    <div class="row">
+                    <div class="col-md-6 col-sm-6  ">
+                            <a class="yes"> <img src="{{asset('img/clientoptique.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                        <div class="col-md-6 col-sm-6 ">
+                            <a class="yes"> <img src="{{asset('img/prixoptique.jpg')}}" alt="image" class="img-responsive" />
+                            </a>
+                        </div>
+                    </div>
+                    <br/>
                     <br/>
                     <br>
-                    <p> Built using the .net core framework in C# making it secure from all possible security threats and very robust and performing, And using Angular8 with the material design library in the front side .</p>
-                    <br/> </div>
+                    <p>Built using <span style="font-weight: bold;">Flutter framework with DART</span>  making the app cross plateform ( Working both on <span style="font-weight: bold;">Android & IOS</span>) for tablets Followin a new design aspect <span style="font-weight: bold;">"The Futuristic Design"</span>
+                <br>The data is stored and used from <span style="font-weight: bold;"> SQLLite Database Using the SQFLITE Widget</span> by synchronizing data from an Online API built with PHP's Laravel ,which makes the Application secure from all possible security threats and very robust.</p>
+                <p>The application uses <span style="font-weight: bold;">GETX The most liked flutter Widget</span> for state management.
+                    <br /> </div>
             </div>
         </div>
     </div>
